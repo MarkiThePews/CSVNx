@@ -2,13 +2,13 @@
 // @name           Snuckls cheating :D
 // @namespace      http://fb.com/grim.reaper.slave
 // @version        0.9.2
-// @copyright      2017+ Ð?ng Qu?c Trung (MarkiThePews)
+// @copyright      2017+ Đặng Quốc Trung (MarkiThePews)
 // @description    Shows type chosing for snuckls so you don't have to wait for the timer to end
 // @include        *.snuckls.com/video/videofeed
 // @include        *.snuckls.com/video/ticketdetails
 // @include        *.snuckls.com/TDetails
 // @homepageURL    http://fb.com/grim.reaper.slave
-// @author         Ð?ng Qu?c Trung
+// @author         Đặng Quốc Trung
 // @grant GM_setValue
 // @grant GM_getValue
 // ==/UserScript==
