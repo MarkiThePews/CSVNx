@@ -5,6 +5,8 @@
 // @copyright      2017+ Đặng Quốc Trung (MarkiThePews)
 // @description    Shows type chosing for snuckls so you don't have to wait for the timer to end
 // @include        *.snuckls.com/video/videofeed
+// @include        *.snuckls.com/video/ticketdetails
+// @include        *.snuckls.com/TDetails
 // @homepageURL    http://fb.com/grim.reaper.slave
 // @author         Đặng Quốc Trung
 // @grant GM_setValue
