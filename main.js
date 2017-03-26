@@ -8,7 +8,7 @@
 // @include        *.snuckls.com/video/ticketdetails
 // @include        *.snuckls.com/TDetails
 // @homepageURL    http://fb.com/grim.reaper.slave
-// @updateURL https://github.com/MarkiThePews/CSVNx/raw/master/main.js
+// @updateURL https://raw.githubusercontent.com/MarkiThePews/CSVNx/master/main.js
 // @author         Đặng Quốc Trung
 // @grant GM_setValue
 // @grant GM_getValue
